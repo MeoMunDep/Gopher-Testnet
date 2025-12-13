@@ -1,1 +1,26 @@
+{
+  "proxyMode": "round",
 
+  "delegate": {
+    "enabled": true,
+    "amount": [3, 5]
+  },
+
+  "undelegate": {
+    "enabled": false,
+    "amount": [1, 5]
+  },
+
+  "claimDelegatedRewards": {
+    "enabled": false,
+    "amount": [1, 5]
+  },
+
+  "vote": {
+    "enabled": false,
+    "amount": [1, 5]
+  },
+
+  "delayEachWallet": [1, 1],
+  "timeToRestartAllWallets": 86400
+}
