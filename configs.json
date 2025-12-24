@@ -3,22 +3,22 @@
 
   "delegate": {
     "enabled": true,
-    "amount": [3, 5]
+    "amount": [1, 2]
   },
 
   "undelegate": {
     "enabled": false,
-    "amount": [1, 5]
+    "amount": [1, 2]
   },
 
   "claimDelegatedRewards": {
     "enabled": false,
-    "amount": [1, 5]
+    "amount": [1, 2]
   },
 
   "vote": {
     "enabled": false,
-    "amount": [1, 5]
+    "amount": [1, 2]
   },
 
   "delayEachWallet": [1, 1],
